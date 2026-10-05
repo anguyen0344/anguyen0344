@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm An Nguyen 👋
 
-<!--
-**anguyen0344/anguyen0344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in software development and web development.
 
-Here are some ideas to get you started:
+## Currently Learning
+- C#
+- C++
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Babylon.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build strong programming fundamentals
+- Create projects for my software development portfolio
+- Prepare for internships and transfer opportunities
+
+## Projects
+I'm currently improving my CS110 projects and building new projects for my portfolio.
